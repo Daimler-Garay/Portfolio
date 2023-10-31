@@ -79,8 +79,15 @@
 
 .navbar-nav .nav-link {
     color: white;
+    text-align: center;
 }
 
-.navbar-brand {
-    color: white;
+.hero_title {
+    color: rgb(255, 255, 255);
+    border: solid black;
+    display: inline-block;
+    padding: 30px 100px;
 }
+
+
+
